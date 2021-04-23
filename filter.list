@@ -1,0 +1,20 @@
+# > Pornhub
+DOMAIN-SUFFIX,phncdn.com,PROXY
+DOMAIN-SUFFIX,phprcdn.com,PROXY
+DOMAIN-SUFFIX,pornhub.com,PROXY
+DOMAIN-SUFFIX,pornhubpremium.com,PROXY
+
+# > 91porn
+host-suffix, 91porn.com, PROXY
+host-suffix, 91p52.com, PROXY
+host-suffix, 91p49.com, PROXY
+host-suffix, t6k.co, PROXY
+host-suffix, wonderfulday30.live, PROXY
+host, i.p04.space, PROXY
+host, i.p04.com, PROXY
+host, c.bingapis.com, PROXY
+host, code.jquery.com, PROXY
+
+# > xvideos
+host-suffix, xvideos.com, PROXY
+host-suffix, xvideos-cdn.com, PROXY
