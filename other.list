@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,phncdn.com,PROXY
 DOMAIN-SUFFIX,phprcdn.com,PROXY
 DOMAIN-SUFFIX,pornhub.com,PROXY
 DOMAIN-SUFFIX,pornhubpremium.com,PROXY
+DOMAIN-SUFFIX,adtng.com,PROXY
 
 # > 91porn
 host-suffix, 91porn.com, PROXY
