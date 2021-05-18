@@ -20,3 +20,8 @@ host, code.jquery.com, PROXY
 # > xvideos
 host-suffix, xvideos.com, PROXY
 host-suffix, xvideos-cdn.com, PROXY
+
+# > CableAv
+host-suffix, cableav.tv, PROXY
+host-suffix, realsrv.com, PROXY
+host-suffix, 128100.xyz, PROXY
