@@ -1,0 +1,12 @@
+# 币安
+Host,o529943.ingest.sentry.io,Xunibi
+HOST-SUFFIX,binance.cloud,Xunibi
+HOST-SUFFIX,binance.me,Xunibi
+HOST-SUFFIX,binance.im,Xunibi
+HOST-SUFFIX,sbinance.com,Xunibi
+HOST-SUFFIX,bnbstatic.com,Xunibi
+HOST-SUFFIX,bntrace.com,Xunibi
+HOST-SUFFIX,siftscience.com,Xunibi
+HOST-SUFFIX,wistia.com,Xunibi
+HOST-SUFFIX,appsflyer.com,Xunibi
+HOST-KEYWORD,binance,Xunibi
