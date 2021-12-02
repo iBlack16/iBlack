@@ -1,4 +1,7 @@
 # Apple 神机
+HOST,beta.apple.com,Apple
+HOST,testflight.apple.com,Apple
+HOST-KEYWORD,testflight,Apple
 HOST,developer.apple.com,Apple
 HOST,smoot.apple.com,Apple
 HOST,itunes.apple.com,Apple
