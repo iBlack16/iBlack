@@ -1,6 +1,6 @@
 payload:
 # 币安
-  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN,o529943.ingest.sentry.io
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,binance.cloud
   - DOMAIN-SUFFIX,binance.me
