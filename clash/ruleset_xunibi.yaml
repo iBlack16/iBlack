@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,binance.cloud
   - DOMAIN-SUFFIX,binance.me
   - DOMAIN-SUFFIX,binance.im
+  - DOMAIN-SUFFIX,binance.org
   - DOMAIN-SUFFIX,sbinance.com
   - DOMAIN-SUFFIX,bnbstatic.com
   - DOMAIN-SUFFIX,bntrace.com
