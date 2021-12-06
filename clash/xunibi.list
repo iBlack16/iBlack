@@ -1,5 +1,5 @@
 # 币安
-DOMAIN,o529943.ingest.sentry.io
+#DOMAIN,o529943.ingest.sentry.io
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binance.me
