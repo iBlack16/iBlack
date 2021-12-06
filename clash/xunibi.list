@@ -1,20 +1,20 @@
 # 币安
-DOMAIN,o529943.ingest.sentry.io,Xunibi
-DOMAIN-SUFFIX,binance.com,Xunibi
-DOMAIN-SUFFIX,binance.cloud,Xunibi
-DOMAIN-SUFFIX,binance.me,Xunibi
-DOMAIN-SUFFIX,binance.im,Xunibi
-DOMAIN-SUFFIX,sbinance.com,Xunibi
-DOMAIN-SUFFIX,bnbstatic.com,Xunibi
-DOMAIN-SUFFIX,bntrace.com,Xunibi
-DOMAIN-SUFFIX,bnappzh.com,Xunibi
-DOMAIN-SUFFIX,siftscience.com,Xunibi
-DOMAIN-SUFFIX,wistia.com,Xunibi
-DOMAIN-SUFFIX,appsflyer.com,Xunibi
-DOMAIN-SUFFIX,saasexch.com,Xunibi
-DOMAIN-SUFFIX,app-measurement.com,Xunibi
-DOMAIN-SUFFIX,riskified.com,Xunibi
-DOMAIN-KEYWORD,binance,Xunibi
+DOMAIN,o529943.ingest.sentry.io
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.im
+DOMAIN-SUFFIX,sbinance.com
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,bnappzh.com
+DOMAIN-SUFFIX,siftscience.com
+DOMAIN-SUFFIX,wistia.com
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,riskified.com
+DOMAIN-KEYWORD,binance
 
 #TokenPocket钱包
 DOMAIN,preserver.mytokenpocket.vip
