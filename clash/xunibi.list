@@ -1,5 +1,6 @@
 # 币安
 DOMAIN,o529943.ingest.sentry.io,Xunibi
+DOMAIN-SUFFIX,binance.com,Xunibi
 DOMAIN-SUFFIX,binance.cloud,Xunibi
 DOMAIN-SUFFIX,binance.me,Xunibi
 DOMAIN-SUFFIX,binance.im,Xunibi
