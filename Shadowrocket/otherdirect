@@ -1,0 +1,7 @@
+#其他需要走直连的分流
+
+#ultramobile
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,ultramobile.com
+DOMAIN-SUFFIX,ultramobile
