@@ -1,0 +1,7 @@
+#其他需要直连分流
+
+# ultramobile
+host-suffix, amplitude.com, direct
+host-suffix, launchdarkly.com, direct
+host-suffix, ultramobile.com, direct
+host-keyword, ultramobile, direct
