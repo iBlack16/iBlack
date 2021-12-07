@@ -1,0 +1,7 @@
+#其他需要走代理的分流
+
+#樱花云
+DOMAIN-SUFFIX,xn--9kq568dvkr.com
+DOMAIN-SUFFIX,yhy001.xyz
+DOMAIN-SUFFIX,yhy002.xyz
+DOMAIN-SUFFIX,yhy003.xyz
