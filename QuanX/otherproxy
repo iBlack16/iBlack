@@ -1,0 +1,7 @@
+#其他需要走代理的分流
+
+#樱花云
+host-suffix, xn--9kq568dvkr.com, proxy
+host-suffix, yhy001.xyz, proxy
+host-suffix, yhy002.xyz, proxy
+host-suffix, yhy003.xyz, proxy
