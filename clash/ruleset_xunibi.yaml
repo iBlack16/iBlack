@@ -34,3 +34,12 @@ payload:
   - DOMAIN-SUFFIX,bcebos.com
   - DOMAIN-SUFFIX,polygonscan.com
   - DOMAIN-KEYWORD,tokenpocket
+
+#TP钱包插件
+  - DOMAIN-SUFFIX,transit.finance
+  - DOMAIN-SUFFIX,debank.com
+  - DOMAIN-SUFFIX,pancakeswap.com
+  - DOMAIN-SUFFIX,pancakeswap.finance
+  - DOMAIN-SUFFIX,ninicoin.io
+  - DOMAIN-SUFFIX,discourse-cdn.com
+  - DOMAIN-SUFFIX,defibit.io
