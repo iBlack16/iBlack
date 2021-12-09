@@ -33,3 +33,11 @@ HOST-SUFFIX,iost.io,Xunibi
 HOST-SUFFIX,bcebos.com,Xunibi
 HOST-SUFFIX,polygonscan.com,Xunibi
 HOST-KEYWORD,tokenpocket,Xunibi
+#TP钱包插件
+HOST-SUFFIX,transit.finance,Xunibi
+HOST-SUFFIX,debank.com,Xunibi
+HOST-SUFFIX,pancakeswap.com,Xunibi
+HOST-SUFFIX,pancakeswap.finance,Xunibi
+HOST-SUFFIX,ninicoin.io,Xunibi
+HOST-SUFFIX,discourse-cdn.com,Xunibi
+HOST-SUFFIX,defibit.io,Xunibi
