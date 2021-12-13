@@ -41,3 +41,14 @@ HOST-SUFFIX,pancakeswap.finance,Xunibi
 HOST-SUFFIX,ninicoin.io,Xunibi
 HOST-SUFFIX,discourse-cdn.com,Xunibi
 HOST-SUFFIX,defibit.io,Xunibi
+
+#Okex欧易
+HOST-SUFFIX,okex.com,Xunibi
+HOST-SUFFIX,oklink.com,Xunibi
+HOST-SUFFIX,coinall.ltd,Xunibi
+HOST-SUFFIX,wpcomstaging.com,Xunibi
+HOST-SUFFIX,webtest.net,Xunibi
+HOST-SUFFIX,mob.com,Xunibi
+HOST-KEYWORD,okex,Xunibi
+
+
