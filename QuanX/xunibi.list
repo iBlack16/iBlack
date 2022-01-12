@@ -15,7 +15,17 @@ HOST-SUFFIX,appsflyer.com,Xunibi
 HOST-SUFFIX,saasexch.com,Xunibi
 HOST-SUFFIX,app-measurement.com,Xunibi
 HOST-SUFFIX,riskified.com,Xunibi
+HOST-SUFFIX,yshyqxx.com,Xunibi
+HOST-SUFFIX,saasexch.com,Xunibi
+HOST-SUFFIX,siftscience.com,Xunibi
+HOST-SUFFIX,cloudfront.net,Xunibi
+HOST-SUFFIX,appsflyer.com,Xunibi
+HOST-SUFFIX,online-metrix.net,Xunibi
+HOST-SUFFIX,bnbzh.ac,Xunibi
 HOST-KEYWORD,binance,Xunibi
+HOST-KEYWORD,bnbstatic,Xunibi
+HOST-KEYWORD,bnappzh,Xunibi
+HOST-KEYWORD,bntrace,Xunibi
 
 #TokenPocket钱包
 Host,preserver.mytokenpocket.vip,Xunibi
