@@ -1,5 +1,5 @@
 # 币安
-Host,o529943.ingest.sentry.io,Xunibi
+HOST,o529943.ingest.sentry.io,Xunibi
 HOST-SUFFIX,binance.com,Xunibi
 HOST-SUFFIX,binance.cloud,Xunibi
 HOST-SUFFIX,binance.me,Xunibi
@@ -28,15 +28,15 @@ HOST-KEYWORD,bnappzh,Xunibi
 HOST-KEYWORD,bntrace,Xunibi
 
 #TokenPocket钱包
-Host,preserver.mytokenpocket.vip,Xunibi
-Host,tp-statics.tokenpocket.pro,Xunibi
-Host,gz.bcebos.com,Xunibi
-Host,geoip.tokenpocket.pro,Xunibi
-Host,bitcoin.mytokenpocket.vip,Xunibi
-Host,web3.mytokenpocket.vip,Xunibi
-Host,api.iost.io,Xunibi
-Host,tp-statics.cdn.bcebos.com,Xunibi
-Host,tp-upload.cdn.bcebos.com,Xunibi
+HOST,preserver.mytokenpocket.vip,Xunibi
+HOST,tp-statics.tokenpocket.pro,Xunibi
+HOST,gz.bcebos.com,Xunibi
+HOST,geoip.tokenpocket.pro,Xunibi
+HOST,bitcoin.mytokenpocket.vip,Xunibi
+HOST,web3.mytokenpocket.vip,Xunibi
+HOST,api.iost.io,Xunibi
+HOST,tp-statics.cdn.bcebos.com,Xunibi
+HOST,tp-upload.cdn.bcebos.com,Xunibi
 HOST-SUFFIX,tokenpocket.pro,Xunibi
 HOST-SUFFIX,mytokenpocket.vip,Xunibi
 HOST-SUFFIX,iost.io,Xunibi
