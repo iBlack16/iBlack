@@ -16,7 +16,17 @@ payload:
   - DOMAIN-SUFFIX,saasexch.com
   - DOMAIN-SUFFIX,app-measurement.com
   - DOMAIN-SUFFIX,riskified.com
+  - DOMAIN-SUFFIX,yshyqxx.com
+  - DOMAIN-SUFFIX,saasexch.com
+  - DOMAIN-SUFFIX,siftscience.com
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,appsflyer.com
+  - DOMAIN-SUFFIX,online-metrix.net
+  - DOMAIN-SUFFIX,bnbzh.ac
   - DOMAIN-KEYWORD,binance
+  - DOMAIN-KEYWORD,bnbstatic
+  - DOMAIN-KEYWORD,bnappzh
+  - DOMAIN-KEYWORD,bntrace
 
 #TokenPocket钱包
   - DOMAIN,preserver.mytokenpocket.vip
