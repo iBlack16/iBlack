@@ -1,7 +1,10 @@
-#其他需要走代理的分流
+#需要走其他国家代理的分流
 
-#樱花云
-host-suffix, xn--9kq568dvkr.com, proxy
-host-suffix, yhy001.xyz, proxy
-host-suffix, yhy002.xyz, proxy
-host-suffix, yhy003.xyz, proxy
+#虚拟币平台：Avedex
+HOST, m.avedex.cc, PROXY
+HOST-SUFFIX, avesp.xyz, PROXY
+HOST-SUFFIX, opencw.xyz, PROXY
+HOST-SUFFIX, api.coingecko.com, PROXY
+HOST-KEYWORD, avedex, PROXY
+HOST-KEYWORD, aveap, PROXY
+HOST-KEYWORD, opencw, PROXY
