@@ -1,7 +1,10 @@
-#其他需要走代理的分流
+#需要走其他国家代理的分流
 
-#樱花云
-DOMAIN-SUFFIX,xn--9kq568dvkr.com
-DOMAIN-SUFFIX,yhy001.xyz
-DOMAIN-SUFFIX,yhy002.xyz
-DOMAIN-SUFFIX,yhy003.xyz
+#虚拟币平台：Avedex
+DOMAIN, m.avedex.cc
+DOMAIN-SUFFIX, avesp.xyz
+DOMAIN-SUFFIX, opencw.xyz
+DOMAIN-SUFFIX, api.coingecko.com
+DOMAIN-KEYWORD, avedex
+DOMAIN-KEYWORD, aveap
+DOMAIN-KEYWORD, opencw
