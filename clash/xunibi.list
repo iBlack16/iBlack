@@ -22,6 +22,10 @@ DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,online-metrix.net
 DOMAIN-SUFFIX,bnbzh.ac
+DOMAIN-SUFFIX,binancezh.in
+DOMAIN-SUFFIX,binancezh.top
+DOMAIN-SUFFIX,binancezh.cz
+DOMAIN-KEYWORD,binancezh
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,bnbstatic
 DOMAIN-KEYWORD,bnappzh
