@@ -22,10 +22,10 @@ HOST-SUFFIX,cloudfront.net,Xunibi
 HOST-SUFFIX,appsflyer.com,Xunibi
 HOST-SUFFIX,online-metrix.net,Xunibi
 HOST-SUFFIX,bnbzh.ac,Xunibi
-HOST-SUFFIX,binancezh.in
-HOST-SUFFIX,binancezh.top
-HOST-SUFFIX,binancezh.cz
-HOST-KEYWORD,binancezh
+HOST-SUFFIX,binancezh.in,Xunibi
+HOST-SUFFIX,binancezh.top,Xunibi
+HOST-SUFFIX,binancezh.cz,Xunibi
+HOST-KEYWORD,binancezh,Xunibi
 HOST-KEYWORD,binance,Xunibi
 HOST-KEYWORD,bnbstatic,Xunibi
 HOST-KEYWORD,bnappzh,Xunibi
