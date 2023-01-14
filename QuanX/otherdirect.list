@@ -5,3 +5,6 @@ host-suffix, amplitude.com, direct
 host-suffix, launchdarkly.com, direct
 host-suffix, ultramobile.com, direct
 host-keyword, ultramobile, direct
+# 樱花动漫
+host-suffix, ntyou.cc, direct
+host-keyword, ntyou, direct
