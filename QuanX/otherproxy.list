@@ -8,3 +8,6 @@ HOST-SUFFIX, api.coingecko.com, PROXY
 HOST-KEYWORD, avedex, PROXY
 HOST-KEYWORD, aveap, PROXY
 HOST-KEYWORD, opencw, PROXY
+HOST-SUFFIX, openai.com, PROXY
+HOST-SUFFIX, sentry.io, PROXY
+HOST-KEYWORD, openai, PROXY
