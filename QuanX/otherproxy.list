@@ -8,6 +8,11 @@ HOST-SUFFIX, api.coingecko.com, PROXY
 HOST-KEYWORD, avedex, PROXY
 HOST-KEYWORD, aveap, PROXY
 HOST-KEYWORD, opencw, PROXY
+
+#openAI平台：ChatGPT
 HOST-SUFFIX, openai.com, PROXY
 HOST-SUFFIX, sentry.io, PROXY
 HOST-KEYWORD, openai, PROXY
+HOST-SUFFIX, cloudflare.com, PROXY
+HOST-SUFFIX, hcaptcha.com, PROXY
+HOST-KEYWORD, cloudflare, PROXY
