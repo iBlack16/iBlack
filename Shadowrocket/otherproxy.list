@@ -8,3 +8,17 @@ DOMAIN-SUFFIX, api.coingecko.com
 DOMAIN-KEYWORD, avedex
 DOMAIN-KEYWORD, aveap
 DOMAIN-KEYWORD, opencw
+
+#openAI平台：ChatGPT
+DOMAIN-SUFFIX, openai.com
+DOMAIN-SUFFIX, sentry.io
+DOMAIN-KEYWORD, openai
+DOMAIN-SUFFIX, cloudflare.com
+DOMAIN-SUFFIX, hcaptcha.com
+DOMAIN-KEYWORD, cloudflare
+DOMAIN-SUFFIX, gstatic.com
+DOMAIN-SUFFIX, gvt1.com
+DOMAIN-SUFFIX, gvt2.com
+DOMAIN-SUFFIX, gvt3.com
+DOMAIN-SUFFIX, sfx.ms
+DOMAIN-SUFFIX, msftconnecttest.com,
