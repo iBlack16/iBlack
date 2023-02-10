@@ -16,3 +16,9 @@ HOST-KEYWORD, openai, PROXY
 HOST-SUFFIX, cloudflare.com, PROXY
 HOST-SUFFIX, hcaptcha.com, PROXY
 HOST-KEYWORD, cloudflare, PROXY
+HOST-SUFFIX,gstatic.com,PROXY
+HOST-SUFFIX,gvt1.com,PROXY
+HOST-SUFFIX,gvt2.com,PROXY
+HOST-SUFFIX,gvt3.com,PROXY
+HOST-SUFFIX,sfx.ms,PROXY
+HOST-SUFFIX,msftconnecttest.com,PROXY
