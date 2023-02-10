@@ -1,21 +1,21 @@
 #需要走其他国家代理的分流
 
 #虚拟币平台：Avedex
-HOST, m.avedex.cc, PROXY
-HOST-SUFFIX, avesp.xyz, PROXY
-HOST-SUFFIX, opencw.xyz, PROXY
-HOST-SUFFIX, api.coingecko.com, PROXY
-HOST-KEYWORD, avedex, PROXY
-HOST-KEYWORD, aveap, PROXY
-HOST-KEYWORD, opencw, PROXY
+HOST, m.avedex.cc,PROXY
+HOST-SUFFIX, avesp.xyz,PROXY
+HOST-SUFFIX, opencw.xyz,PROXY
+HOST-SUFFIX, api.coingecko.com,PROXY
+HOST-KEYWORD, avedex,PROXY
+HOST-KEYWORD, aveap,PROXY
+HOST-KEYWORD, opencw,PROXY
 
 #openAI平台：ChatGPT
-HOST-SUFFIX, openai.com, PROXY
-HOST-SUFFIX, sentry.io, PROXY
-HOST-KEYWORD, openai, PROXY
-HOST-SUFFIX, cloudflare.com, PROXY
-HOST-SUFFIX, hcaptcha.com, PROXY
-HOST-KEYWORD, cloudflare, PROXY
+HOST-SUFFIX, openai.com,PROXY
+HOST-SUFFIX, sentry.io,PROXY
+HOST-KEYWORD, openai,PROXY
+HOST-SUFFIX, cloudflare.com,PROXY
+HOST-SUFFIX, hcaptcha.com,PROXY
+HOST-KEYWORD, cloudflare,PROXY
 HOST-SUFFIX,gstatic.com,PROXY
 HOST-SUFFIX,gvt1.com,PROXY
 HOST-SUFFIX,gvt2.com,PROXY
