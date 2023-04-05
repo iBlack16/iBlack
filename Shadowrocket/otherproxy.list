@@ -11,14 +11,20 @@ DOMAIN-KEYWORD, opencw
 
 #openAI平台：ChatGPT
 DOMAIN-SUFFIX, openai.com
-DOMAIN-SUFFIX, sentry.io
+HOST-SUFFIX, ai.com
+DOMAIN, cdn.authO.com
+DOMAIN, openaiapi-site.azureedge.net
+DOMAIN-SUFFIX, identrust.com
+DOMAIN, challenges.cloudflare.com
 DOMAIN-KEYWORD, openai
-DOMAIN-SUFFIX, cloudflare.com
+
+DOMAIN-SUFFIX, sentry.io
 DOMAIN-SUFFIX, hcaptcha.com
-DOMAIN-KEYWORD, cloudflare
-DOMAIN-SUFFIX, gstatic.com
-DOMAIN-SUFFIX, gvt1.com
-DOMAIN-SUFFIX, gvt2.com
-DOMAIN-SUFFIX, gvt3.com
-DOMAIN-SUFFIX, sfx.ms
-DOMAIN-SUFFIX, msftconnecttest.com,
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,sfx.ms
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,f7tk.com
