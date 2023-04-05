@@ -11,7 +11,7 @@ DOMAIN-KEYWORD, opencw
 
 #openAI平台：ChatGPT
 DOMAIN-SUFFIX, openai.com
-HOST-SUFFIX, ai.com
+DOMAIN-SUFFIX, ai.com
 DOMAIN, cdn.authO.com
 DOMAIN, openaiapi-site.azureedge.net
 DOMAIN-SUFFIX, identrust.com
