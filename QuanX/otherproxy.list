@@ -11,11 +11,11 @@ HOST-KEYWORD, opencw,PROXY
 
 #openAI平台：ChatGPT
 HOST-SUFFIX, openai.com,PROXY
-HOST-SUFFIX, ai.com
-HOST, cdn.authO.com
-HOST, openaiapi-site.azureedge.net
-HOST-SUFFIX, identrust.com
-HOST, challenges.cloudflare.com
+HOST-SUFFIX, ai.com,PROXY
+HOST, cdn.authO.com,PROXY
+HOST, openaiapi-site.azureedge.net,PROXY
+HOST-SUFFIX, identrust.com,PROXY
+HOST, challenges.cloudflare.com,PROXY
 HOST-KEYWORD, openai,PROXY
 
 HOST-SUFFIX, sentry.io,PROXY
