@@ -10,13 +10,18 @@ DOMAIN-KEYWORD, aveap
 DOMAIN-KEYWORD, opencw
 
 #openAI平台：ChatGPT
-DOMAIN-SUFFIX, openai.com
-DOMAIN-SUFFIX, ai.com
-DOMAIN, cdn.authO.com
-DOMAIN, openaiapi-site.azureedge.net
-DOMAIN-SUFFIX, identrust.com
-DOMAIN, challenges.cloudflare.com
-DOMAIN-KEYWORD, openai
+DOMAIN,cdn.authO.com
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,identrust.com
+DOMAIN,challenges.cloudflare.com
+DOMAIN,pay.openai.com
+DOMAIN,chat.openai.com
+DOMAIN,platfrom.openai.com
+DOMAIN,invoice.stripe.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-KEYWORD,openai
 
 DOMAIN-SUFFIX, sentry.io
 DOMAIN-SUFFIX, hcaptcha.com
