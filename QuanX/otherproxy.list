@@ -35,3 +35,5 @@ HOST-SUFFIX,msftconnecttest.com,PROXY
 HOST-SUFFIX,vimeocdn.com,PROXY
 HOST-SUFFIX,akamaized.net,PROXY
 HOST-SUFFIX,f7tk.com,PROXY
+
+HOST-SUFFIX,ipaddress.my,PROXY
