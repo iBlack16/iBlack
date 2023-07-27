@@ -9,31 +9,6 @@ HOST-KEYWORD,avedex,PROXY
 HOST-KEYWORD,aveap,PROXY
 HOST-KEYWORD,opencw,PROXY
 
-#openAI平台：ChatGPT
 
-HOST,cdn.authO.com,PROXY
-HOST,openaiapi-site.azureedge.net,PROXY
-HOST-SUFFIX,identrust.com,PROXY
-HOST,challenges.cloudflare.com,PROXY
-HOST,pay.openai.com,PROXY
-HOST,chat.openai.com,PROXY
-HOST,platfrom.openai.com,PROXY
-HOST,invoice.stripe.com,PROXY
-HOST-SUFFIX,stripe.com,PROXY
-HOST-SUFFIX,openai.com,PROXY
-HOST-SUFFIX,ai.com,PROXY
-HOST-KEYWORD,openai,PROXY
 
-HOST-SUFFIX,sentry.io,PROXY
-HOST-SUFFIX,hcaptcha.com,PROXY
-HOST-SUFFIX,gstatic.com,PROXY
-HOST-SUFFIX,gvt1.com,PROXY
-HOST-SUFFIX,gvt2.com,PROXY
-HOST-SUFFIX,gvt3.com,PROXY
-HOST-SUFFIX,sfx.ms,PROXY
-HOST-SUFFIX,msftconnecttest.com,PROXY
-HOST-SUFFIX,vimeocdn.com,PROXY
-HOST-SUFFIX,akamaized.net,PROXY
-HOST-SUFFIX,f7tk.com,PROXY
 
-HOST-SUFFIX,ipaddress.my,PROXY
