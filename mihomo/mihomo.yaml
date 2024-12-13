@@ -206,6 +206,8 @@ rules:
        
   # NT影视规则
   - DOMAIN-SUFFIX,ntyou.cc,DIRECT
+  - DOMAIN-SUFFIX,ntdm.tv,DIRECT
+  - DOMAIN-KEYWORD,ntdm,DIRECT
   - DOMAIN-SUFFIX,chuyu.me,全球加速
         
   #cloudflare 
