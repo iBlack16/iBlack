@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,riskified.com
 DOMAIN-SUFFIX,yshyqxx.com
 DOMAIN-SUFFIX,saasexch.com
 DOMAIN-SUFFIX,siftscience.com
-DOMAIN-SUFFIX,cloudfront.net
+#DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,online-metrix.net
 DOMAIN-SUFFIX,bnbzh.ac
