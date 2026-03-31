@@ -5,6 +5,7 @@ payload:
   - DOMAIN-KEYWORD,intercom
   - DOMAIN-KEYWORD,digicert
   - DOMAIN,cdn.usefathom.com
+  - DOMAIN,cdn.cloudflare.net
   - DOMAIN,api.anthropic.com
   - DOMAIN,a-api.anthropic.com
   - DOMAIN,api-iam.intercom.io
@@ -12,6 +13,7 @@ payload:
   - DOMAIN,s-cdn.anthropic.com
   - DOMAIN,ocsp.digicert.com
   - DOMAIN,widget.intercom.io
+  - DOMAIN-SUFFIX,cloudflare.net
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,usefathom.com
   - DOMAIN-SUFFIX,intercom.io
