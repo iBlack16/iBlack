@@ -1,7 +1,20 @@
 payload:
   - DOMAIN-KEYWORD,anthropic
   - DOMAIN-KEYWORD,claude
+  - DOMAIN-KEYWORD,usefathom
+  - DOMAIN-KEYWORD,intercom
+  - DOMAIN-KEYWORD,digicert
   - DOMAIN,cdn.usefathom.com
+  - DOMAIN,api.anthropic.com
+  - DOMAIN,a-api.anthropic.com
+  - DOMAIN,api-iam.intercom.io
+  - DOMAIN,nexus-websocket-a.intercom.io
+  - DOMAIN,s-cdn.anthropic.com
+  - DOMAIN,ocsp.digicert.com
+  - DOMAIN,widget.intercom.io
+  - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,usefathom.com
+  - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
