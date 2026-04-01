@@ -13,6 +13,7 @@ payload:
   - DOMAIN,s-cdn.anthropic.com
   - DOMAIN,ocsp.digicert.com
   - DOMAIN,widget.intercom.io
+  - DOMAIN,servd-anthropic-website.b-cdn.net
   - DOMAIN-SUFFIX,cloudflare.net
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,usefathom.com
@@ -21,3 +22,4 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claudeusercontent.com
+  - DOMAIN,servd-anthropic-website.b-cdn.net
