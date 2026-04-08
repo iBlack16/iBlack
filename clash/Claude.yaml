@@ -1,5 +1,9 @@
 payload:
   - DOMAIN-KEYWORD,anthropic
+  - DOMAIN-KEYWORD,datadog
+  - DOMAIN-KEYWORD,sentry
+  - DOMAIN-KEYWORD,sift
+  - DOMAIN-KEYWORD,category-ntp
   - DOMAIN-KEYWORD,claude
   - DOMAIN-KEYWORD,clau
   - DOMAIN-KEYWORD,usefathom
@@ -15,6 +19,12 @@ payload:
   - DOMAIN,ocsp.digicert.com
   - DOMAIN,widget.intercom.io
   - DOMAIN,servd-anthropic-website.b-cdn.net
+  - DOMAIN,cdn.anthropic.com
+  - DOMAIN,anthropic.auth0.com
+  - DOMAIN,anthropic-com.ghost.io
+  - DOMAIN,anthropic.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,statsigapi.net
   - DOMAIN-SUFFIX,cloudflare.net
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,usefathom.com
