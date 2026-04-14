@@ -1,5 +1,6 @@
 # 币安
 DOMAIN,o529943.ingest.sentry.io
+DOMAIN,static.bscdnweb.com
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binance.me
@@ -25,7 +26,9 @@ DOMAIN-SUFFIX,bnbzh.ac
 DOMAIN-SUFFIX,binancezh.in
 DOMAIN-SUFFIX,binancezh.top
 DOMAIN-SUFFIX,binancezh.cz
+DOMAIN-SUFFIX，bscdnweb.com
 DOMAIN-KEYWORD,binancezh
+DOMAIN-KEYWORD,bscdnweb
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,bnbstatic
 DOMAIN-KEYWORD,bnappzh
